@@ -81,9 +81,4 @@ This notebook reflects exploration and hands-on practice in machine learning for
 
 * Kaggle: [Blue Book for Bulldozers Competition](https://www.kaggle.com/c/bluebook-for-bulldozers)
 
-```
-
 ---
-
-Would you like a `requirements.txt` file to match the notebook's imports?
-```
